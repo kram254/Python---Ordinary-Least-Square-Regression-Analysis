@@ -1,0 +1,442 @@
+SEX,MARITAL.STATUS,AGE,EDUCATION,OCCUPATION,INCOME,HOME.TYPE,ETHNIC.CLASS,ETHNICITY.TYPE
+Male,Married,35,High School,Manager,50000,House,White,ONS 5+2
+Female,Single,28,College,Teacher,35000,House,White,ONS 5+2
+Male,Married,45,Graduate,Doctor,80000,Apartment,White,ONS 5+2
+Female,Married,40,College,Engineer,60000,House,White,ONS 5+2
+Male,Single,32,High School,Technician,40000,House,White,ONS 5+2
+Female,Married,37,Graduate,Lawyer,70000,House,White,ONS 5+2
+Male,Single,30,High School,Technician,38000,Apartment,White,ONS 5+2
+Female,Single,25,College,Teacher,32000,Apartment,White,ONS 5+2
+Male,Married,48,Graduate,Doctor,85000,Apartment,White,ONS 5+2
+Female,Married,42,College,Nurse,55000,Apartment,White,ONS 5+2
+Male,Single,31,High School,Technician,42000,Apartment,White,ONS 5+2
+Female,Single,27,College,Teacher,33000,House,Hispanic,ONS 5+2
+Male,Married,50,Graduate,Lawyer,90000,House,White,ONS 5+2
+Female,Married,38,College,Engineer,65000,House,White,ONS 5+2
+Male,Single,29,High School,Technician,39000,House,White,ONS 5+2
+Female,Single,24,College,Teacher,31000,House,White,ONS 5+2
+Male,Married,47,Graduate,Doctor,82000,Apartment,White,ONS 5+2
+Female,Married,39,College,Nurse,58000,House,White,ONS 5+2
+Male,Single,33,High School,Technician,44000,Apartment,White,ONS 5+2
+Female,Single,26,College,Teacher,34000,House,White,ONS 5+2
+Male,Single,28,High School,Technician,38000,Apartment,White,ONS 5+2
+Female,Married,32,College,Engineer,62000,House,Hispanic,ONS 5+2
+Male,Single,45,Graduate,Lawyer,80000,House,White,ONS 5+2
+Female,Married,39,College,Nurse,56000,Other,White,ONS 5+2
+Male,Single,30,High School,Technician,40000,House,White,ONS 5+2
+Female,Single,35,College,Teacher,45000,Apartment,White,ONS 5+2
+Male,Married,52,Graduate,Doctor,95000,House,White,ONS 5+2
+Female,Married,43,College,Engineer,68000,House,White,ONS 5+2
+Male,Single,27,High School,Technician,36000,House,White,ONS 5+2
+Female,Single,24,College,Teacher,32000,Other,White,ONS 5+2
+Male,Married,49,Graduate,Lawyer,88000,House,White,ONS 5+2
+Female,Married,38,College,Nurse,54000,House,White,ONS 5+2
+Male,Single,31,High School,Technician,42000,House,White,ONS 5+2
+Female,Single,29,College,Teacher,38000,House,White,ONS 5+2
+Male,Married,51,Graduate,Doctor,92000,House,White,ONS 5+2
+Female,Married,41,College,Engineer,64000,House,White,ONS 5+2
+Male,Single,26,High School,Technician,35000,House,White,ONS 5+2
+Female,Single,23,College,Teacher,30000,House,White,ONS 5+2
+Male,Married,47,Graduate,Lawyer,84000,House,White,ONS 5+2
+Female,Married,37,College,Nurse,52000,Apartment,Asian,ONS 5+2
+Male,Single,33,High School,Technician,44000,Apartment,White,ONS 5+2
+Female,Single,31,College,Teacher,40000,House,White,ONS 5+2
+Male,Married,55,Graduate,Doctor,98000,House,White,ONS 5+2
+Female,Married,45,College,Engineer,72000,House,White,ONS 5+2
+Male,Single,29,High School,Technician,37000,House,Black,ONS 5+2
+Female,Single,26,College,Teacher,33000,House,White,ONS 5+2
+Male,Married,53,Graduate,Lawyer,96000,House,White,ONS 5+2
+Female,Married,42,College,Nurse,60000,House,White,ONS 5+2
+Male,Single,28,High School,Technician,39000,House,White,ONS 5+2
+Female,Single,25,College,Teacher,34000,House,Hispanic,ONS 5+2
+Male,Married,50,Graduate,Doctor,90000,Condominium,White,ONS 5+2
+Female,Married,40,College,Engineer,66000,Condominium,White,ONS 5+2
+Male,Single,27,High School,Technician,36000,House,White,ONS 5+2
+Female,Single,24,College,Teacher,31000,House,White,ONS 5+2
+Male,Married,48,Graduate,Lawyer,86000,House,Black,ONS 5+2
+Female,Married,39,College,Nurse,58000,House,White,ONS 5+2
+Male,Single,32,High School,Technician,41000,House,White,ONS 5+2
+Female,Single,30,College,Teacher,37000,House,White,ONS 5+2
+Male,Married,54,Graduate,Doctor,97000,House,White,ONS 5+2
+Female,Married,44,College,Engineer,70000,House,White,ONS 5+2
+Male,Single,29,High School,Technician,38000,House,White,ONS 5+2
+Female,Single,26,College,Teacher,32000,House,Other,ONS 5+2
+Male,Married,52,Graduate,Lawyer,94000,Condominium,White,ONS 5+2
+Female,Married,41,College,Nurse,62000,House,White,ONS 5+2
+Male,Single,28,High School,Technician,37000,Apartment,Asian,ONS 5+2
+Female,Single,25,College,Teacher,33000,House,Hispanic,ONS 5+2
+Male,Married,49,Graduate,Doctor,89000,House,White,ONS 5+2
+Female,Married,38,College,Engineer,56000,House,Asian,ONS 5+2
+Male,Single,31,High School,Technician,40000,House,White,ONS 5+2
+Female,Single,29,College,Teacher,36000,House,White,ONS 5+2
+Male,Married,51,Graduate,Lawyer,91000,House,White,ONS 5+2
+Female,Married,40,College,Nurse,64000,House,White,ONS 5+2
+Male,Single,26,High School,Technician,35000,Condominium,White,ONS 5+2
+Female,Single,23,College,Teacher,31000,House,White,ONS 5+2
+Male,Married,47,Graduate,Lawyer,83000,House,White,ONS 5+2
+Female,Married,37,College,Nurse,54000,Apartment,White,ONS 5+2
+Male,Single,33,High School,Technician,43000,House,Black,ONS 5+2
+Female,Single,31,College,Teacher,39000,House,White,ONS 5+2
+Male,Married,55,Graduate,Doctor,97000,Apartment,White,ONS 5+2
+Female,Married,45,College,Engineer,71000,House,White,ONS 5+2
+Male,Single,29,High School,Technician,38000,House,White,ONS 5+2
+Female,Single,26,College,Teacher,32000,House,White,ONS 5+2
+Male,Married,53,Graduate,Lawyer,95000,Apartment,White,ONS 5+2
+Female,Married,42,College,Nurse,61000,House,White,ONS 5+2
+Male,Single,28,High School,Technician,37000,House,White,ONS 5+2
+Female,Single,25,College,Teacher,33000,Apartment,Asian,ONS 5+2
+Male,Married,50,Graduate,Doctor,90000,Apartment,White,ONS 5+2
+Female,Married,40,College,Engineer,66000,Apartment,White,ONS 5+2
+Male,Single,27,High School,Technician,36000,Condominium,White,ONS 5+2
+Female,Single,24,College,Teacher,31000,House,White,ONS 5+2
+Male,Married,48,Graduate,Lawyer,88000,House,White,ONS 5+2
+Female,Married,39,College,Nurse,57000,House,White,ONS 5+2
+Male,Single,32,High School,Technician,40000,House,Hispanic,ONS 5+2
+Female,Single,30,College,Teacher,36000,Other,White,ONS 5+2
+Male,Married,54,Graduate,Doctor,96000,House,White,ONS 5+2
+Female,Married,44,College,Engineer,69000,Mobile Home,White,ONS 5+2
+Male,Single,29,High School,Technician,37000,Condominium,White,ONS 5+2
+Female,Single,26,College,Teacher,32000,House,White,ONS 5+2
+Male,Married,52,Graduate,Lawyer,93000,House,White,ONS 5+2
+Female,Married,41,College,Nurse,63000,House,White,ONS 5+2
+Male,Single,28,High School,Technician,36000,NA,White,ONS 5+2
+Female,Single,25,College,Teacher,32000,House,East Indian,ONS 5+2
+Male,Married,49,Graduate,Doctor,87000,House,Other,ONS 5+2
+Female,Married,38,College,Engineer,55000,House,White,ONS 5+2
+Male,Single,31,High School,Technician,41000,House,White,ONS 5+2
+Female,Single,29,College,Teacher,37000,House,White,ONS 5+2
+Male,Married,51,Graduate,Lawyer,91000,House,White,ONS 5+2
+Female,Married,40,College,Nurse,65000,Condominium,Other,ONS 5+2
+Male,Single,26,High School,Technician,35000,Apartment,White,ONS 5+2
+Female,Single,23,College,Teacher,31000,House,American Indian,ONS 5+2
+Male,Married,47,Graduate,Lawyer,83000,House,White,ONS 5+2
+Female,Married,37,College,Nurse,53000,Apartment,NA,ONS 5+2
+Male,Single,33,High School,Technician,44000,House,White,ONS 5+2
+Female,Single,31,College,Teacher,40000,Apartment,American Indian,ONS 5+2
+Male,Married,55,Graduate,Doctor,98000,Apartment,White,ONS 5+2
+Female,Married,45,College,Engineer,72000,House,White,ONS 5+2
+Male,Single,29,High School,Technician,38000,Condominium,White,ONS 5+2
+Female,Single,26,College,Teacher,33000,House,White,ONS 5+2
+Male,Married,53,Graduate,Lawyer,96000,Condominium,White,ONS 5+2
+Female,Married,42,College,Nurse,61000,Condominium,White,ONS 5+2
+Male,Single,28,High School,Technician,37000,Condominium,White,ONS 5+2
+Female,Single,25,College,Teacher,32000,House,White,ONS 5+2
+Male,Married,50,Graduate,Doctor,90000,House,White,ONS 5+2
+Female,Married,40,College,Engineer,67000,House,White,ONS 5+2
+Male,Single,27,High School,Technician,36000,House,White,ONS 5+2
+Female,Single,24,College,Teacher,31000,House,White,ONS 5+2
+Male,Married,48,Graduate,Lawyer,88000,House,White,ONS 5+2
+Female,Married,39,College,Nurse,57000,House,White,ONS 5+2
+Male,Single,32,High School,Technician,40000,House,White,ONS 5+2
+Female,Single,30,College,Teacher,36000,Condominium,White,ONS 5+2
+Male,Married,54,Graduate,Doctor,97000,NA,NA,ONS 5+2
+Female,Married,44,College,Engineer,70000,House,White,ONS 5+2
+Male,Single,29,High School,Technician,38000,House,White,ONS 5+2
+Female,Single,26,College,Teacher,32000,House,Hispanic,ONS 5+2
+Male,Married,52,Graduate,Lawyer,94000,House,White,ONS 5+2
+Female,Married,41,College,Nurse,62000,House,White,ONS 5+2
+Male,Single,28,High School,Technician,37000,NA,White,ONS 5+2
+Female,Single,25,College,Teacher,33000,House,White,ONS 5+2
+Male,Married,49,Graduate,Doctor,89000,Apartment,Asian,ONS 5+2
+Female,Married,38,College,Engineer,56000,House,White,ONS 5+2
+Male,Single,31,High School,Technician,41000,House,White,ONS 5+2
+Female,Single,29,College,Teacher,37000,House,White,ONS 5+2
+Male,Married,51,Graduate,Lawyer,91000,House,White,ONS 5+2
+Female,Married,40,College,Nurse,64000,Condominium,White,ONS 5+2
+Male,Single,26,High School,Technician,35000,House,White,ONS 5+2
+Female,Single,23,College,Teacher,31000,House,White,ONS 5+2
+Male,Married,47,Graduate,Lawyer,83000,House,White,ONS 5+2
+Female,Married,37,College,Nurse,54000,Apartment,Black,ONS 5+2
+Male,Single,33,High School,Technician,43000,House,White,ONS 5+2
+Female,Single,31,College,Teacher,39000,House,White,ONS 5+2
+Male,Married,55,Graduate,Doctor,97000,NA,White,ONS 5+2
+Female,Married,45,College,Engineer,71000,Apartment,Hispanic,ONS 5+2
+Male,Single,29,High School,Technician,38000,House,White,ONS 5+2
+Female,Single,26,College,Teacher,32000,House,White,ONS 5+2
+Male,Married,53,Graduate,Lawyer,95000,House,White,ONS 5+2
+Female,Married,42,College,Nurse,61000,Other,White,ONS 5+2
+Male,Single,28,High School,Technician,37000,House,White,ONS 5+2
+Female,Single,25,College,Teacher,33000,House,Hispanic,ONS 5+2
+Male,Married,50,Graduate,Doctor,90000,Other,White,ONS 5+2
+Female,Married,40,College,Engineer,66000,Apartment,White,ONS 5+2
+Male,Single,27,High School,Technician,36000,House,White,ONS 5+2
+Female,Single,24,College,Teacher,31000,House,White,ONS 5+2
+Male,Married,48,Graduate,Lawyer,88000,Other,White,ONS 5+2
+Female,Married,39,College,Nurse,58000,Apartment,Asian,ONS 5+2
+Male,Single,32,High School,Technician,40000,House,White,ONS 5+2
+Female,Single,30,College,Teacher,36000,House,White,ONS 5+2
+Male,Married,54,Graduate,Doctor,96000,Condominium,Hispanic,ONS 5+2
+Female,Married,44,College,Engineer,69000,House,White,ONS 5+2
+Male,Single,29,High School,Technician,38000,Apartment,White,ONS 5+2
+Female,Single,26,College,Teacher,32000,Apartment,White,ONS 5+2
+Male,Married,52,Graduate,Lawyer,93000,House,White,ONS 5+2
+Female,Married,41,College,Nurse,63000,House,White,ONS 5+2
+Male,Single,28,High School,Technician,37000,NA,White,ONS 5+2
+Female,Single,25,College,Teacher,33000,Condominium,White,ONS 5+2
+Male,Married,49,Graduate,Doctor,87000,House,White,ONS 5+2
+Female,Married,38,College,Engineer,55000,Apartment,White,ONS 5+2
+Male,Single,31,High School,Technician,40000,Apartment,White,ONS 5+2
+Female,Single,29,College,Teacher,36000,Apartment,White,ONS 5+2
+Male,Married,51,Graduate,Lawyer,91000,House,White,ONS 5+2
+Female,Married,40,College,Nurse,65000,House,White,ONS 5+2
+Male,Single,26,High School,Technician,35000,House,White,ONS 5+2
+Female,Single,23,College,Teacher,31000,Apartment,White,ONS 5+2
+Male,Married,47,Graduate,Lawyer,83000,House,White,ONS 5+2
+Female,Married,37,College,Nurse,53000,House,White,ONS 5+2
+Male,Single,33,High School,Technician,44000,House,White,ONS 5+2
+Female,Single,31,College,Teacher,40000,House,Pacific Islander,ONS 5+2
+Male,Married,55,Graduate,Doctor,98000,Condominium,White,ONS 5+2
+Female,Married,45,College,Engineer,72000,Apartment,White,ONS 5+2
+Male,Single,29,High School,Technician,38000,Condominium,White,ONS 5+2
+Female,Single,26,College,Teacher,33000,House,White,ONS 5+2
+Male,Married,53,Graduate,Lawyer,96000,House,Asian,ONS 5+2
+Female,Married,42,College,Nurse,61000,House,White,ONS 5+2
+Male,Single,28,High School,Technician,37000,House,Hispanic,ONS 5+2
+Female,Single,25,College,Teacher,32000,House,White,ONS 5+2
+Male,Married,50,Graduate,Doctor,90000,House,White,ONS 5+2
+Female,Married,40,College,Engineer,67000,House,White,ONS 5+2
+Male,Single,27,High School,Technician,36000,House,White,ONS 5+2
+Female,Single,24,College,Teacher,31000,House,White,ONS 5+2
+Male,Married,48,Graduate,Lawyer,88000,NA,White,ONS 5+2
+Female,Married,39,College,Nurse,57000,House,White,ONS 5+2
+Male,Single,32,High School,Technician,40000,Condominium,White,ONS 5+2
+Female,Single,30,College,Teacher,36000,Apartment,Asian,ONS 5+2
+Male,Married,54,Graduate,Doctor,97000,Mobile Home,Hispanic,ONS 5+2
+Female,Married,44,College,Engineer,70000,House,White,ONS 5+2
+Male,Single,29,High School,Technician,38000,Apartment,White,ONS 5+2
+Female,Single,26,College,Teacher,32000,Apartment,Hispanic,ONS 5+2
+Male,Married,52,Graduate,Lawyer,94000,House,White,ONS 5+2
+Female,Married,41,College,Nurse,62000,Other,White,ONS 5+2
+Male,Single,28,High School,Technician,37000,House,Hispanic,ONS 5+2
+Female,Single,25,College,Teacher,33000,House,White,ONS 5+2
+Male,Married,49,Graduate,Doctor,89000,House,White,ONS 5+2
+Female,Married,38,College,Engineer,56000,House,White,ONS 5+2
+Male,Single,31,High School,Technician,41000,House,White,ONS 5+2
+Female,Single,29,College,Teacher,37000,House,White,ONS 5+2
+Male,Married,51,Graduate,Lawyer,91000,Condominium,Hispanic,ONS 5+2
+Female,Married,40,College,Nurse,64000,Condominium,White,ONS 5+2
+Male,Single,26,High School,Technician,35000,House,White,ONS 5+2
+Female,Single,23,College,Teacher,31000,House,White,ONS 5+2
+Male,Married,47,Graduate,Lawyer,83000,House,White,ONS 5+2
+Female,Married,37,College,Nurse,54000,House,White,ONS 5+2
+Male,Single,33,High School,Technician,43000,House,White,ONS 5+2
+Female,Single,31,College,Teacher,39000,Apartment,White,ONS 5+2
+Male,Married,55,Graduate,Doctor,97000,House,White,ONS 5+2
+Female,Married,45,College,Engineer,71000,House,White,ONS 5+2
+Male,Single,29,High School,Technician,38000,Condominium,White,ONS 5+2
+Female,Single,26,College,Teacher,32000,House,White,ONS 5+2
+Male,Married,53,Graduate,Lawyer,95000,House,Black,ONS 5+2
+Female,Married,42,College,Nurse,61000,House,White,ONS 5+2
+Male,Single,28,High School,Technician,37000,House,White,ONS 5+2
+Female,Single,25,College,Teacher,33000,House,White,ONS 5+2
+Male,Married,50,Graduate,Doctor,90000,House,White,ONS 5+2
+Female,Married,40,College,Engineer,66000,House,White,ONS 5+2
+Male,Single,27,High School,Technician,36000,House,White,ONS 5+2
+Female,Single,24,College,Teacher,31000,House,Black,ONS 5+2
+Male,Married,48,Graduate,Lawyer,88000,Apartment,White,ONS 5+2
+Female,Married,39,College,Nurse,58000,House,White,ONS 5+2
+Male,Single,32,High School,Technician,40000,House,White,ONS 5+2
+Female,Single,30,College,Teacher,36000,House,White,ONS 5+2
+Male,Married,54,Graduate,Doctor,96000,House,White,ONS 5+2
+Female,Married,44,College,Engineer,69000,Other,White,ONS 5+2
+Male,Single,29,High School,Technician,38000,House,White,ONS 5+2
+Female,Single,26,College,Teacher,32000,House,White,ONS 5+2
+Male,Married,52,Graduate,Lawyer,93000,House,White,ONS 5+2
+Female,Married,41,College,Nurse,63000,House,White,ONS 5+2
+Male,Single,28,High School,Technician,37000,House,American Indian,ONS 5+2
+Female,Single,25,College,Teacher,33000,Apartment,White,ONS 5+2
+Male,Married,49,Graduate,Doctor,87000,House,White,ONS 5+2
+Female,Married,38,College,Engineer,55000,House,White,ONS 5+2
+Male,Single,31,High School,Technician,41000,Apartment,White,ONS 5+2
+Female,Single,29,College,Teacher,37000,House,White,ONS 5+2
+Male,Married,51,Graduate,Lawyer,91000,House,White,ONS 5+2
+Female,Married,40,College,Nurse,65000,House,White,ONS 5+2
+Male,Single,26,High School,Technician,35000,House,White,ONS 5+2
+Female,Single,23,College,Teacher,31000,House,Hispanic,ONS 5+2
+Male,Married,47,Graduate,Lawyer,83000,House,White,ONS 5+2
+Female,Married,37,College,Nurse,53000,House,White,ONS 5+2
+Male,Single,33,High School,Technician,44000,Condominium,White,ONS 5+2
+Female,Single,31,College,Teacher,40000,House,White,ONS 5+2
+Male,Married,55,Graduate,Doctor,98000,House,White,ONS 5+2
+Female,Married,45,College,Engineer,72000,Apartment,White,ONS 5+2
+Male,Single,29,High School,Technician,38000,House,White,ONS 5+2
+Female,Single,26,College,Teacher,33000,Apartment,White,ONS 5+2
+Male,Married,53,Graduate,Lawyer,96000,Condominium,White,ONS 5+2
+Female,Married,42,College,Nurse,61000,Other,White,ONS 5+2
+Male,Single,28,High School,Technician,37000,House,White,ONS 5+2
+Female,Single,25,College,Teacher,32000,House,White,ONS 5+2
+Male,Married,50,Graduate,Doctor,90000,Condominium,Black,ONS 5+2
+Female,Married,40,College,Engineer,67000,House,White,ONS 5+2
+Male,Single,27,High School,Technician,36000,House,White,ONS 5+2
+Female,Single,24,College,Teacher,31000,Condominium,White,ONS 5+2
+Male,Married,48,Graduate,Lawyer,88000,House,White,ONS 5+2
+Female,Married,39,College,Nurse,57000,House,White,ONS 5+2
+Male,Single,32,High School,Technician,40000,NA,White,ONS 5+2
+Female,Single,30,College,Teacher,36000,House,White,ONS 5+2
+Male,Married,54,Graduate,Doctor,97000,House,White,ONS 5+2
+Female,Married,44,College,Engineer,70000,House,White,ONS 5+2
+Male,Single,29,High School,Technician,38000,House,White,ONS 5+2
+Female,Single,26,College,Teacher,32000,Condominium,White,ONS 5+2
+Male,Married,52,Graduate,Lawyer,94000,House,Other,ONS 5+2
+Female,Married,41,College,Nurse,62000,House,White,ONS 5+2
+Male,Single,28,High School,Technician,37000,House,White,ONS 5+2
+Female,Single,25,College,Teacher,33000,House,White,ONS 5+2
+Male,Married,49,Graduate,Doctor,89000,House,White,ONS 5+2
+Female,Married,38,College,Engineer,56000,House,White,ONS 5+2
+Male,Single,31,High School,Technician,41000,House,White,ONS 5+2
+Female,Single,29,College,Teacher,37000,House,White,ONS 5+2
+Male,Married,51,Graduate,Lawyer,91000,House,White,ONS 5+2
+Female,Married,40,College,Nurse,64000,House,White,ONS 5+2
+Male,Single,26,High School,Technician,35000,House,White,ONS 5+2
+Female,Single,23,College,Teacher,31000,Apartment,White,ONS 5+2
+Male,Married,47,Graduate,Lawyer,83000,House,White,ONS 5+2
+Female,Married,37,College,Nurse,54000,House,White,ONS 5+2
+Male,Single,33,High School,Technician,43000,House,White,ONS 5+2
+Female,Single,31,College,Teacher,39000,House,White,ONS 5+2
+Male,Married,55,Graduate,Doctor,97000,House,White,ONS 5+2
+Female,Married,45,College,Engineer,71000,Condominium,White,ONS 5+2
+Male,Single,29,High School,Technician,38000,House,White,ONS 5+2
+Female,Single,26,College,Teacher,32000,House,White,ONS 5+2
+Male,Married,53,Graduate,Lawyer,95000,NA,White,ONS 5+2
+Female,Married,42,College,Nurse,61000,House,White,ONS 5+2
+Male,Single,28,High School,Technician,37000,House,White,ONS 5+2
+Female,Single,25,College,Teacher,33000,House,American Indian,ONS 5+2
+Male,Married,49,Graduate,Doctor,89000,Other,White,ONS 5+2
+Female,Married,38,College,Engineer,55000,House,White,ONS 5+2
+Male,Single,31,High School,Technician,41000,Apartment,White,ONS 5+2
+Female,Single,29,College,Teacher,37000,Other,Hispanic,ONS 5+2
+Male,Married,51,Graduate,Lawyer,91000,Apartment,White,ONS 5+2
+Female,Married,40,College,Nurse,65000,Apartment,White,ONS 5+2
+Male,Single,26,High School,Technician,35000,House,White,ONS 5+2
+Female,Single,23,College,Teacher,31000,Apartment,White,ONS 5+2
+Male,Married,47,Graduate,Lawyer,83000,House,White,ONS 5+2
+Female,Married,37,College,Nurse,53000,House,American Indian,ONS 5+2
+Male,Single,33,High School,Technician,44000,House,White,ONS 5+2
+Female,Single,31,College,Teacher,40000,House,White,ONS 5+2
+Male,Married,55,Graduate,Doctor,98000,House,White,ONS 5+2
+Female,Married,45,College,Engineer,72000,House,White,ONS 5+2
+Male,Single,29,High School,Technician,38000,House,White,ONS 5+2
+Female,Single,26,College,Teacher,33000,House,White,ONS 5+2
+Male,Married,53,Graduate,Lawyer,96000,House,White,ONS 5+2
+Female,Married,42,College,Nurse,61000,House,White,ONS 5+2
+Male,Single,28,High School,Technician,37000,House,Asian,ONS 5+2
+Female,Single,25,College,Teacher,32000,Apartment,White,ONS 5+2
+Male,Married,50,Graduate,Doctor,90000,Apartment,White,ONS 5+2
+Female,Married,40,College,Engineer,66000,Apartment,White,ONS 5+2
+Male,Single,27,High School,Technician,36000,Other,White,ONS 5+2
+Female,Single,24,College,Teacher,31000,NA,White,ONS 5+2
+Male,Married,48,Graduate,Lawyer,88000,Apartment,White,ONS 5+2
+Female,Married,39,College,Nurse,58000,House,Asian,ONS 5+2
+Male,Single,32,High School,Technician,40000,House,Asian,ONS 5+2
+Female,Single,30,College,Teacher,36000,House,White,ONS 5+2
+Male,Married,54,Graduate,Doctor,97000,House,Hispanic,ONS 5+2
+Female,Married,44,College,Engineer,70000,House,White,ONS 5+2
+Male,Single,29,High School,Technician,38000,House,White,ONS 5+2
+Female,Single,26,College,Teacher,32000,Apartment,Hispanic,ONS 5+2
+Male,Married,52,Graduate,Lawyer,93000,Apartment,White,ONS 5+2
+Female,Married,41,College,Nurse,63000,House,White,ONS 5+2
+Male,Single,28,High School,Technician,37000,House,White,ONS 5+2
+Female,Single,25,College,Teacher,33000,NA,White,ONS 5+2
+Male,Married,49,Graduate,Doctor,87000,House,White,ONS 5+2
+Female,Married,38,College,Engineer,56000,NA,White,ONS 5+2
+Male,Single,31,High School,Technician,41000,Apartment,White,ONS 5+2
+Female,Single,29,College,Teacher,37000,House,White,ONS 5+2
+Male,Married,51,Graduate,Lawyer,91000,House,White,ONS 5+2
+Female,Married,40,College,Nurse,64000,Apartment,White,ONS 5+2
+Male,Single,26,High School,Technician,35000,Apartment,White,ONS 5+2
+Female,Single,23,College,Teacher,31000,Apartment,White,ONS 5+2
+Male,Married,47,Graduate,Lawyer,83000,House,White,ONS 5+2
+Female,Married,37,College,Nurse,54000,House,Black,ONS 5+2
+Male,Single,33,High School,Technician,43000,Apartment,White,ONS 5+2
+Female,Single,31,College,Teacher,39000,Apartment,White,ONS 5+2
+Male,Married,55,Graduate,Doctor,97000,NA,White,ONS 5+2
+Female,Married,45,College,Engineer,71000,House,White,ONS 5+2
+Male,Single,29,High School,Technician,38000,Apartment,White,ONS 5+2
+Female,Single,26,College,Teacher,32000,House,American Indian,ONS 5+2
+Male,Married,53,Graduate,Lawyer,95000,Apartment,White,ONS 5+2
+Female,Married,42,College,Nurse,61000,Apartment,White,ONS 5+2
+Male,Single,28,High School,Technician,37000,Apartment,White,ONS 5+2
+Female,Single,25,College,Teacher,33000,Apartment,White,ONS 5+2
+Male,Married,49,Graduate,Doctor,89000,House,White,ONS 5+2
+Female,Married,38,College,Engineer,56000,House,White,ONS 5+2
+Male,Single,31,High School,Technician,41000,House,White,ONS 5+2
+Female,Single,29,College,Teacher,37000,House,White,ONS 5+2
+Male,Married,51,Graduate,Lawyer,91000,House,White,ONS 5+2
+Female,Married,40,College,Nurse,65000,House,White,ONS 5+2
+Male,Single,26,High School,Technician,35000,House,Asian,ONS 5+2
+Female,Single,23,College,Teacher,31000,NA,White,ONS 5+2
+Male,Married,47,Graduate,Lawyer,83000,Apartment,White,ONS 5+2
+Female,Married,37,College,Nurse,53000,House,White,ONS 5+2
+Male,Single,33,High School,Technician,44000,House,White,ONS 5+2
+Female,Single,31,College,Teacher,40000,House,American Indian,ONS 5+2
+Male,Married,55,Graduate,Doctor,98000,Condominium,Black,ONS 5+2
+Female,Married,45,College,Engineer,72000,House,White,ONS 5+2
+Male,Single,29,High School,Technician,38000,House,White,ONS 5+2
+Female,Single,26,College,Teacher,33000,Mobile Home,White,ONS 5+2
+Male,Married,53,Graduate,Lawyer,96000,Apartment,White,ONS 5+2
+Female,Married,42,College,Nurse,61000,House,White,ONS 5+2
+Male,Single,28,High School,Technician,37000,House,White,ONS 5+2
+Female,Single,25,College,Teacher,32000,House,White,ONS 5+2
+Male,Married,50,Graduate,Doctor,90000,House,White,ONS 5+2
+Female,Married,40,College,Engineer,67000,House,White,ONS 5+2
+Male,Single,27,High School,Technician,36000,House,White,ONS 5+2
+Female,Single,24,College,Teacher,31000,Apartment,White,ONS 5+2
+Male,Married,48,Graduate,Lawyer,88000,House,White,ONS 5+2
+Female,Married,39,College,Nurse,57000,Apartment,White,ONS 5+2
+Male,Single,32,High School,Technician,40000,House,White,ONS 5+2
+Female,Single,30,College,Teacher,36000,Apartment,American Indian,ONS 5+2
+Male,Married,54,Graduate,Doctor,97000,Apartment,Hispanic,ONS 5+2
+Female,Married,44,College,Engineer,70000,Apartment,Hispanic,ONS 5+2
+Male,Single,29,High School,Technician,38000,Other,White,ONS 5+2
+Female,Single,26,College,Teacher,32000,Condominium,White,ONS 5+2
+Male,Married,52,Graduate,Lawyer,94000,House,White,ONS 5+2
+Female,Married,41,College,Nurse,62000,House,White,ONS 5+2
+Male,Single,28,High School,Technician,37000,Apartment,White,ONS 5+2
+Female,Single,25,College,Teacher,33000,House,White,ONS 5+2
+Male,Married,49,Graduate,Doctor,89000,House,White,ONS 5+2
+Female,Married,38,College,Engineer,55000,House,White,ONS 5+2
+Male,Single,31,High School,Technician,41000,House,White,ONS 5+2
+Female,Single,29,College,Teacher,37000,House,White,ONS 5+2
+Male,Married,51,Graduate,Lawyer,91000,House,White,ONS 5+2
+Female,Married,40,College,Nurse,64000,House,White,ONS 5+2
+Male,Single,26,High School,Technician,35000,Apartment,White,ONS 5+2
+Female,Single,23,College,Teacher,31000,Other,White,ONS 5+2
+Male,Married,47,Graduate,Lawyer,83000,House,White,ONS 5+2
+Female,Married,37,College,Nurse,54000,House,Other,ONS 5+2
+Male,Single,33,High School,Technician,43000,House,White,ONS 5+2
+Female,Single,31,College,Teacher,39000,Apartment,White,ONS 5+2
+Male,Married,55,Graduate,Doctor,97000,Apartment,White,ONS 5+2
+Female,Married,45,College,Engineer,71000,House,White,ONS 5+2
+Male,Single,29,High School,Technician,38000,Apartment,White,ONS 5+2
+Female,Single,26,College,Teacher,32000,House,White,ONS 5+2
+Male,Married,53,Graduate,Lawyer,95000,House,White,ONS 5+2
+Female,Married,42,College,Nurse,61000,Apartment,Black,ONS 5+2
+Male,Single,28,High School,Technician,37000,House,White,ONS 5+2
+Female,Single,25,College,Teacher,33000,Apartment,White,ONS 5+2
+Male,Married,49,Graduate,Doctor,89000,Mobile Home,White,ONS 5+2
+Female,Married,38,College,Engineer,56000,House,White,ONS 5+2
+Male,Single,31,High School,Technician,41000,House,White,ONS 5+2
+Female,Single,29,College,Teacher,37000,Apartment,White,ONS 5+2
+Male,Married,51,Graduate,Lawyer,91000,Mobile Home,White,ONS 5+2
+Female,Married,40,College,Nurse,65000,House,NA,ONS 5+2
+Male,Single,26,High School,Technician,35000,House,White,ONS 5+2
+Female,Single,23,College,Teacher,31000,House,Other,ONS 5+2
+Male,Married,47,Graduate,Lawyer,83000,House,White,ONS 5+2
+Female,Married,37,College,Nurse,53000,House,White,ONS 5+2
+Male,Single,33,High School,Technician,44000,Mobile Home,White,ONS 5+2
+Female,Single,31,College,Teacher,40000,Apartment,White,ONS 5+2
+Male,Married,55,Graduate,Doctor,98000,House,White,ONS 5+2
+Female,Married,45,College,Engineer,72000,House,White,ONS 5+2
+Male,Single,29,High School,Technician,38000,House,White,ONS 5+2
+Female,Single,26,College,Teacher,33000,Mobile Home,White,ONS 5+2
+Male,Married,53,Graduate,Lawyer,96000,House,White,ONS 5+2
+Female,Married,42,College,Nurse,61000,House,White,ONS 5+2
+Male,Single,28,High School,Technician,37000,Mobile Home,White,ONS 5+2
+Female,Single,25,College,Teacher,32000,House,White,ONS 5+2
+Male,Married,50,Graduate,Doctor,90000,Apartment,White,ONS 5+2
+Female,Married,40,College,Engineer,66000,Apartment,White,ONS 5+2
+Male,Single,27,High School,Technician,36000,House,White,ONS 5+2
+Female,Single,24,College,Teacher,31000,Apartment,White,ONS 5+2
+Male,Married,48,Graduate,Lawyer,88000,House,White,ONS 5+2
+Female,Married,39,College,Nurse,58000,Apartment,White,ONS 5+2
+Male,Single,32,High School,Technician,40000,Condominium,White,ONS 5+2
